@@ -1,0 +1,6 @@
+{
+  "name": "Neon Shuriken: Cyberpunk Platformer",
+  "description": "Prototipo de acción lateral Cyberpunk 2D de alta fidelidad desarrollado en Python Arcade con simulador web interactivo, controles de gamepad y efectos visuales de neón.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
